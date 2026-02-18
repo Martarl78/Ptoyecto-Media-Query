@@ -88,4 +88,5 @@ No incluye funcionalidades de backend ni compras reales.
 
 Proyecto realizado por alumnas de DAM  
 Asignatura: Lenguajes de marcas y sistemas de gestión de información
+
 Curso académico: 2025-2026
